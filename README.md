@@ -35,34 +35,12 @@
 
 Final Year Engineering Graduate (Class of 2027) building software that combines **Artificial Intelligence**, **Machine Learning**, **Backend Engineering**, and **Modern UI** into real-world products. I am driven by a passion for solving complex problems and building cool things.
 
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Currently Focused On
-- 🤖 Autonomous AI Agents & Multi-Agent Systems
-- 🧠 Machine Learning & Deep Learning
-- 🔥 Vector Databases & Embedding Search
-- 📄 RAG (Retrieval-Augmented Generation)
-- 🍎 Native Swift / SwiftUI Applications
-- ⚡ Full Stack Development
-- ☁️ Cloud-Native, Zero-Cost Infrastructure
-
-</td>
-<td width="50%" valign="top">
-
 ### 💡 What Drives Me
 
-- **Bridging AI with Core Software** – I am driven by integrating complex machine learning pipelines and vector databases into clean, user-facing applications rather than just building standalone models.
-- **Privacy-First & Offline Innovation** – I love exploring the boundaries of edge computing, creating powerful local AI tools that give users complete data sovereignty without relying on expensive cloud APIs.
-- **System Orchestration** – I am fascinated by automated workflows, from designing multi-agent AI networks that self-heal to building multi-tenant academic platforms with automated evaluation engines.
-- **Competitive Problem Solving** – I thrive in collaborative, high-stakes coding environments where you have to design scalable architecture under tight deadlines and build stable MVPs from scratch.
-
-</td>
-</tr>
-</table>
-
+- **Bridging AI with Core Software** 
+- **Privacy-First & Offline Innovation** 
+- **System Orchestration** 
+- **Competitive Problem Solving** 
 <br/>
 
 ## 🏆 Featured Projects
